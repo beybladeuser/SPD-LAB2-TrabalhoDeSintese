@@ -1,5 +1,0 @@
-Concurrent Programming Concepts  - https://dl.acm.org/doi/pdf/10.1145/356622.356624
-
- 
-
-Cloud Computing and Grid Computing 360-Degree Compared - https://ieeexplore.ieee.org/abstract/document/4738445
